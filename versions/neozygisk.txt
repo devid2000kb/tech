@@ -1,0 +1,6 @@
+id=zygisksu
+name=NeoZygisk
+version=v2.4 (289-08080ef-release)
+versionCode=289
+file=modules/neozygisk.zip
+sha256=92883f7282c28a801009928a9d127909ac1bcd66d0ba0d6aba1002b9fbca199d
