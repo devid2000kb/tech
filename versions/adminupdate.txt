@@ -1,6 +1,6 @@
 id=adminupdate
 name=AdminUpdate
-version=v4.2
-versionCode=411
+version=v4.3
+versionCode=412
 file=modules/adminupdate.zip
-sha256=5879a6b23ffee4a6e905d13d26d07ec270ddc09abc983fe8e50200c675a79701
+sha256=1de85db068b3c1a302d0a9be4ae145baa87dfa3690a85536dfd9aea4dc3988b1
