@@ -1,4 +1,4 @@
-adminupdate|412|modules/adminupdate.zip|AdminUpdate
+adminupdate|413|modules/adminupdate.zip|AdminUpdate
 zygisksu|289|modules/neozygisk.zip|NeoZygisk
 tricky_store|245|modules/tricky_store.zip|Tricky Store
 playintegrityfix|190000|modules/playintegrityfix.zip|Play Integrity Fork
