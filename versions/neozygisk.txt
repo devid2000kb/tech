@@ -3,4 +3,4 @@ name=NeoZygisk
 version=v2.4 (289-08080ef-release)
 versionCode=289
 file=modules/neozygisk.zip
-sha256=7db699ed27ac18c16fbcf5d3039d369ca17797e27b4ca7cf8146597a638d3b11
+sha256=4e1a11bfd46c3689e5996f8ec5ef741538f7b0f646b19604dd1f61fc49215b13
