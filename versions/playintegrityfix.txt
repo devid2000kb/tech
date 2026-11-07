@@ -3,4 +3,4 @@ name=Play Integrity Fork
 version=v19
 versionCode=190000
 file=modules/playintegrityfix.zip
-sha256=1bde662c71d0061d51c450ef782fd41faeb94dec2e35cd8907d9fa04d4b0a9b0
+sha256=88dc1547bf2181bda579a2b537b28cc49ccf445e154a4c411f0ec72aa16a3ead
