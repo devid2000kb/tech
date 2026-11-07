@@ -3,4 +3,4 @@ name=Tricky Store
 version=v1.4.1 (245-72b2e84-release)
 versionCode=245
 file=modules/tricky_store.zip
-sha256=730bbd85e05ad83b6d6f94934076cfcc9032bd5a53bddfc64d0c350bf0a56ef7
+sha256=fed492df40b5f00bb6652a5e5d99eb34a48c6fbc5e0560a7fddb2836cb46170b
